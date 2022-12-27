@@ -45,8 +45,10 @@ AWP | Wildfire (Battle-Scarred)
    
 3. Вставьте это название в файл `./configs/to_search.txt`
 </br>
+
 ---
 ---
+
 После работы скрипта все данные будут в файле `./result/auto_result.txt` в виде: </br>
 
 ```
