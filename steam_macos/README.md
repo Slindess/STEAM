@@ -48,6 +48,7 @@ AWP | Wildfire (Battle-Scarred)
 ---
 ---
 После работы скрипта все данные будут в файле `./result/auto_result.txt` в виде: </br>
+
 ```
 ---------------------------------------------
 |  steam   | lisSkins | Разница  |    %     |
@@ -59,6 +60,7 @@ AWP | Wildfire (Battle-Scarred)
 |  2132.5  | 1884.43  | 248.050  |  1.1316  |  AWP | Wildfire (Battle-Scarred)
 ---------------------------------------------
 ```
+
 ---
 ---
 ### compare.py ###
